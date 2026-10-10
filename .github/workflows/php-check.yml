@@ -1,4 +1,4 @@
-
+// Testing GitHub Actions automated workflow
 name: Web Technologies CI
 
 on:
