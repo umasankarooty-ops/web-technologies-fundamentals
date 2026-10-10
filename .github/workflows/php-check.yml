@@ -1,5 +1,5 @@
 // Testing GitHub Actions automated workflow
-name: Web Technologies CI
+// name: Web Technologies CI
 
 on:
   push:
